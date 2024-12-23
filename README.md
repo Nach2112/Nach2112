@@ -2,5 +2,5 @@
 - 👀 I’m interested in data analysis, business analysis, machine learning, and artificial intelligence.
 - 🌱 I’m currently learning data analysis techniques, Python libraries, and machine learning algorithms.
 - 💞️ I’m looking to collaborate on projects involving data-driven solutions, predictive modeling, and automation tools.
-- 📫 You can reach me via email at [your email] or on [LinkedIn] (@nachiketbhavsar21).
+- 📫 You can reach me on [LinkedIn] (@nachiketbhavsar21).
 - ⚡ Fun fact: I have hobbies in Cooking, Basketball, Thrownall and Photography.
